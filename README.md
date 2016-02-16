@@ -10,16 +10,20 @@
 
 # 个人信息
 
- - 何林(花名：根号三)/ 男 / 1995 
+ - 何林 / 根号三 / 男 / 1995 
  - 工作年限：2 年 (2014年2月 ~ 至今)
  - 微博：[@sqrtthree](http://weibo.com/sqrtthree)
  - Twitter：[@sqrtthree](https://twitter.com/sqrtthree)
  - 技术博客：[http://sqrthree.github.io](http://sqrthree.github.io)
  - Github：[http://github.com/sqrthree](http://github.com/sqrthree)
 
+---
+
  - 期望职位：Web 前端开发工程师
  - 期望薪资：税前月薪 10k
  - 期望城市：郑州
+
+---
  
  - 目前正在职，正在考虑换个环境。
 
