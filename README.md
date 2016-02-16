@@ -53,8 +53,9 @@
 
 ## 开源项目
 
+ - [placemat](https://github.com/sqrthree/placemat)：Some pretty nice placeholder nouns for your site (people, places, and things), powered by [https://placem.at/](https://placem.at/).
  - [greenhat](https://github.com/sqrthree/greenhat)：a quick hack for decorating your GitHub contribution calendar with commits for the past n days.
- - [MyStars](http://github.com/sqrthree/MyStars)：通过 `Angular + Node` 实现的一个简单的管理 github stars 项目的小工具. (第一次接触 Angular，代码略烂，近期计划使用 React + webpack 进行重构。)
+ - [MyStars](http://github.com/sqrthree/MyStars)：通过 `Angular + Node` 实现的一个简单的管理 github stars 项目的小工具. (第一次接触 Angular，近期计划使用 React + webpack 进行重构。)
 
 ## 技术文章
 
