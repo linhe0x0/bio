@@ -61,7 +61,7 @@
 
 - [聊聊 JS 中的严格模式](http://blog.sqrtthree.com/2015/10/09/strict-mode/)
 - [谈谈我理解的API接口设计](http://blog.sqrtthree.com/2015/09/08/api/)
-- [......](http://blog.sqrtthree.com/)
+- [查看更多...](https://github.com/sqrthree/sqrthree.github.io/issues)
 
 ## 成长路线
 
