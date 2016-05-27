@@ -11,7 +11,7 @@
 # 个人信息
 
  - 何林 / 根号三 / 男 / 1995 
- - 工作年限：2 年 (2014年2月 ~ 至今)
+ - 工作年限：2.x 年 (2014年2月 ~ 至今)
  - 微博：[@sqrtthree](http://weibo.com/sqrtthree)
  - Twitter：[@sqrtthree](https://twitter.com/sqrtthree)
  - 技术博客：[http://sqrthree.github.io](http://sqrthree.github.io)
