@@ -76,6 +76,9 @@
 
 ## 成长路线
 
+
+
+- [掘金 · 联合编辑](http://gold.xitu.io/about)成员。
 - 参与了 [掘金翻译计划](https://github.com/xitu/gold-miner), 并加入了『掘金译者』小组。
 - 混迹于[前端乱炖](http://www.html-js.com/card/799)、[segmentfault](http://segmentfault.com/u/sqrtthree)、[stackoverflow](http://stackoverflow.com/) 等各大技术社区。
 
