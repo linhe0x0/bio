@@ -25,13 +25,13 @@
 
 ---
  
- - 目前计划离职，3 个月内到岗。
+ - 已离职，暂无工作打算。
 
 ---
 
 # 工作经历
 
-## 云和数据 （2016年4月 ~ 至今）
+## 云和数据 （2016年4月 ~ 2016年7月）
 
 ### 前端开发课程 H5 高级讲师
 
@@ -70,15 +70,15 @@
 
 ## 技术文章
 
+- [[译]-jQuery 3.0 终于发布啦！](http://blog.sqrtthree.com/2016/06/13/jQuery-3-0-Final-Released/)
+- [[译]-在 Chrome 开发者工具中调试 node.js](http://blog.sqrtthree.com/2016/02/29/debugging-nodejs-in-chrome-devtools/)
 - [聊聊 JS 中的严格模式](http://blog.sqrtthree.com/2015/10/09/strict-mode/)
 - [谈谈我理解的API接口设计](http://blog.sqrtthree.com/2015/09/08/api/)
 - [查看更多...](https://github.com/sqrthree/sqrthree.github.io/issues)
 
 ## 成长路线
 
-
-
-- 有幸成为[掘金 · 联合编辑](http://gold.xitu.io/about)。
+- 成为[掘金 · 联合编辑](http://gold.xitu.io/about)。
 - 参与了 [掘金翻译计划](https://github.com/xitu/gold-miner), 并加入了『掘金译者』小组。
 - 混迹于[前端乱炖](http://www.html-js.com/card/799)、[segmentfault](http://segmentfault.com/u/sqrtthree)、[stackoverflow](http://stackoverflow.com/) 等各大技术社区。
 
