@@ -1,0 +1,81 @@
+web前端开发职位 - 
+
+联系方式
+
+手机：
+Email：
+QQ：
+个人信息
+
+
+工作年限：
+微博：
+Twitter：
+技术博客：
+Github：
+期望职位：Web 前端开发工程师
+期望薪资：税前月薪 **
+期望城市：郑州
+已离职，暂无工作打算。
+工作经历
+
+云和数据 （2016年4月 ~ 2016年7月）
+
+前端开发课程 H5 高级讲师
+
+主要负责 H5 课程方面的知识体系梳理、课程大纲和规范的制定，以及内部培训和日常授课相关的工作。
+
+珑凌科技（2014年2月 ~ 2016年3月）
+
+内部中控平台系统
+
+我在此项目负责了整体项目规划，技术选型，质量把控以及核心功能的开发。这个项目中，最困难的问题是在前端工程方面，因为是第一次在工程方面进行探索，最后选用了 Gulp 作为构建工具，使用 browserify 来基于 commonjs 规范的模块化开发。这个项目中，主要的技术细节有: 使用handlebars 作为模板引擎，通过 socket 进行实时通信，通过 Echarts 进行数据可视化展示等。
+
+在线客服系统
+
+我在此项目负责了整体的功能开发。以及配合其他开发人员编写一些 Node.js 相关的功能。其中完成的功能主要有基于 socket 的实时通信，文件上传和处理，以及数据的可视化展示等。主要的技术栈有 socket.io，jQuery，handlebars，Echarts。
+
+针对台湾地区的视频网站
+
+我在此项目负责了整站的功能开发，这个项目中，最困难的问题是公共模块的组织和管理，解决方案是引进了 sass 工具，通过其实现了 CSS 的模块化管理，最后结果如何。这个项目中，主要的技术细节有 Sass，资源延迟加载，按需加载，大屏优化 等。
+
+各种业务活动专题
+
+主要是通过 CSS3 制作各种动画和交互效果，并针对低级浏览器使用 Flash / GIF 做优雅降级处理。
+
+其他项目
+
+私下爱折腾一些小游戏，做过仿微信打飞机、移动端 2048 游戏等。
+
+开源项目和作品
+
+开源项目
+
+placemat：Some pretty nice placeholder nouns for your site (people, places, and things), powered by https://placem.at/.
+greenhat：a quick hack for decorating your GitHub contribution calendar with commits for the past n days.
+MyStars：通过 Angular + Node 实现的一个简单的管理 github stars 项目的小工具. (第一次接触 Angular，近期计划使用 React + webpack 进行重构。)
+技术文章
+
+[译]-jQuery 3.0 终于发布啦！
+[译]-在 Chrome 开发者工具中调试 node.js
+聊聊 JS 中的严格模式
+谈谈我理解的API接口设计
+查看更多...
+成长路线
+
+成为掘金 · 联合编辑。
+参与了 掘金翻译计划, 并加入了『掘金译者』小组。
+混迹于前端乱炖、segmentfault、stackoverflow 等各大技术社区。
+技能清单
+
+以下均为我熟练使用的技能:
+
+Web开发：Node
+Web框架：Express / Mocha / electron
+前端框架：Bootstrap / Semantic UI / CSS3 / jQuery / Lodash / AngularJS / React / Ionic / ES2015
+前端工具：Bower / npm / Gulp / Webpack / Sass / Less / coffeescript
+数据库相关：Mongodb / Redis
+版本管理、文档和自动化部署工具：Svn / Git / Dox
+单元测试：Mocha / chai
+平台：Mac / Linux
+感谢您花时间阅读我的简历，期待能有机会和您共事。
