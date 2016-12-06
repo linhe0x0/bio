@@ -2,7 +2,7 @@
 
 # 联系方式
 
-- 手机：`177 2979 0922`
+- 手机：`159 8196 3283`
 - Email：`imsqrtthree@gmail.com`
 - QQ：`511249910`
 
@@ -11,11 +11,11 @@
 # 个人信息
 
  - 何林 / 根号三 / 男 / 1995 
- - 工作年限：2.x 年 (2014年2月 ~ 至今)
+ - 工作年限：2.x 年 (2014 年 2 月 ~ 至今)
  - 微博：[@sqrtthree](http://weibo.com/sqrtthree)
  - Twitter：[@sqrtthree](https://twitter.com/sqrtthree)
  - 技术博客：[http://sqrthree.github.io](http://sqrthree.github.io)
- - Github：[http://github.com/sqrthree](http://github.com/sqrthree)
+ - GitHub：[http://github.com/sqrthree](http://github.com/sqrthree)
 
 ---
 
@@ -31,24 +31,24 @@
 
 # 工作经历
 
-## 云和数据 （2016年4月 ~ 2016年7月）
+## 云和数据 （2016 年 4 月 ~ 2016 年 7 月）
 
 ### 前端开发课程 H5 高级讲师
 
 主要负责 H5 课程方面的知识体系梳理、课程大纲和规范的制定，以及内部培训和日常授课相关的工作。
 
-## 珑凌科技（2014年2月 ~ 2016年3月）
+## 珑凌科技（2014 年 2 月 ~ 2016 年 3 月）
 
 ### 内部中控平台系统 
 
-我在此项目负责了整体项目规划，技术选型，质量把控以及核心功能的开发。这个项目中，最困难的问题是在前端工程方面，因为是第一次在工程方面进行探索，最后选用了 `Gulp` 作为构建工具，使用 `browserify` 来基于 `commonjs` 规范的模块化开发。这个项目中，主要的技术细节有: 使用`handlebars` 作为模板引擎，通过 `socket` 进行实时通信，通过 `Echarts` 进行数据可视化展示等。
+我在此项目负责了整体项目规划，技术选型，质量把控以及核心功能的开发。这个项目中，最困难的问题是在前端工程方面，因为是第一次在工程方面进行探索，最后选用了 `Gulp` 作为构建工具，使用 `browserify` 来基于 `commonjs` 规范的模块化开发。这个项目中，主要的技术细节有: 使用 `handlebars` 作为模板引擎，通过 `socket` 进行实时通信，通过 `Echarts` 进行数据可视化展示等。
 
 ### 在线客服系统
 
-我在此项目负责了整体的功能开发。以及配合其他开发人员编写一些 Node.js  相关的功能。其中完成的功能主要有基于 socket 的实时通信，文件上传和处理，以及数据的可视化展示等。主要的技术栈有 socket.io，jQuery，handlebars，Echarts。
+我在此项目负责了整体的功能开发。以及配合其他开发人员编写一些 `Node.js`  相关的功能。其中完成的功能主要有基于 `socket` 的实时通信，文件上传和处理，以及数据的可视化展示等。主要的技术栈有 `socket.io`、`jQuery`、`Handlebars`、`Echarts`。
 
 ### 针对台湾地区的视频网站
-我在此项目负责了整站的功能开发，这个项目中，最困难的问题是公共模块的组织和管理，解决方案是引进了 `sass` 工具，通过其实现了 CSS 的模块化管理，最后结果如何。这个项目中，主要的技术细节有 `Sass`，`资源延迟加载`，`按需加载`，`大屏优化` 等。
+我在此项目负责了整站的功能开发，这个项目中，最困难的问题是公共模块的组织和管理，解决方案是引进了 `sass` 工具，通过其实现了 `CSS` 的模块化管理。这个项目中，主要的技术细节有 `Sass`，`资源延迟加载`，`按需加载`，`大屏优化` 等。
 
 ### 各种业务活动专题
 
@@ -78,9 +78,10 @@
 
 ## 成长路线
 
-- 成为[掘金 · 联合编辑](http://gold.xitu.io/about)。
-- 参与了 [掘金翻译计划](https://github.com/xitu/gold-miner), 并加入了『掘金译者』小组。
 - 混迹于[前端乱炖](http://www.html-js.com/card/799)、[segmentfault](http://segmentfault.com/u/sqrtthree)、[stackoverflow](http://stackoverflow.com/) 等各大技术社区。
+- 2015.12 参与了 [掘金翻译计划](https://github.com/xitu/gold-miner), 并加入了『掘金译者』小组。
+- 2015.12 成为 [掘金 · 联合编辑](http://gold.xitu.io/about)。
+- 2016.07 成为 [掘金翻译计划](https://github.com/xitu/gold-miner) 负责人
 
 # 技能清单
 
@@ -88,7 +89,7 @@
 
 - Web开发：Node
 - Web框架：Express / Mocha / electron
-- 前端框架：Bootstrap / Semantic UI / CSS3 / jQuery / Lodash / AngularJS / React / Ionic / ES2015
+- 前端框架：Bootstrap / Semantic UI / jQuery / Lodash / AngularJS / React / Vue / Ionic / ES2015
 - 前端工具：Bower / npm / Gulp / Webpack / Sass / Less / coffeescript
 - 数据库相关：Mongodb / Redis
 - 版本管理、文档和自动化部署工具：Svn / Git / Dox
