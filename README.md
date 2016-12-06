@@ -89,7 +89,7 @@
 
 - Web开发：Node
 - Web框架：Express / Mocha / electron
-- 前端框架：Bootstrap / Semantic UI / jQuery / Lodash / AngularJS / React / Vue / Ionic / ES2015
+- 前端框架：Bootstrap / Semantic UI / jQuery / Lodash / Angular / React / Vue / Ionic / ES2015
 - 前端工具：Bower / npm / Gulp / Webpack / Sass / Less / CoffeeScript
 - 数据库相关：Mongodb / Redis
 - 版本管理、文档和自动化部署工具：Svn / Git / Dox
