@@ -61,23 +61,23 @@
 
 ## 开源项目
 
-- [placemat](https://github.com/sqrthree/placemat)：Some pretty nice placeholder nouns for your site (people, places, and things), powered by [https://placem.at/](https://placem.at/).
+- [placemat](https://github.com/sqrthree/placemat)：Some pretty nice placeholder nouns for your site (people, places, and things), powered by [placem.at](https://placem.at/).
 - [查看更多](https://github.com/sqrthree?tab=repositories)
 
 ## 技术文章
 
-- [[译]-jQuery 3.0 终于发布啦！](http://blog.sqrtthree.com/2016/06/13/jQuery-3-0-Final-Released/)
-- [[译]-在 Chrome 开发者工具中调试 node.js](http://blog.sqrtthree.com/2016/02/29/debugging-nodejs-in-chrome-devtools/)
+- [[译] jQuery 3.0 终于发布啦！](http://blog.sqrtthree.com/2016/06/13/jQuery-3-0-Final-Released/)
+- [[译] 在 Chrome 开发者工具中调试 node.js](http://blog.sqrtthree.com/2016/02/29/debugging-nodejs-in-chrome-devtools/)
 - [聊聊 JS 中的严格模式](http://blog.sqrtthree.com/2015/10/09/strict-mode/)
-- [谈谈我理解的API接口设计](http://blog.sqrtthree.com/2015/09/08/api/)
+- [谈谈我理解的 API 接口设计](http://blog.sqrtthree.com/2015/09/08/api/)
 - [查看更多...](https://github.com/sqrthree/sqrthree.github.io/issues)
 
 ## 成长路线
 
 - 混迹于 [前端乱炖](http://www.html-js.com/card/799)、[segmentfault](http://segmentfault.com/u/sqrtthree)、[stackoverflow](http://stackoverflow.com/) 等各大技术社区。
-- 2015.12 参与了 [掘金翻译计划](https://github.com/xitu/gold-miner), 开始翻译之旅。
+- 2015.12 参与了 [掘金翻译计划](https://github.com/xitu/gold-miner)，开始翻译之旅。
 - 2015.12 成为 [掘金 · 联合编辑](http://gold.xitu.io/about)。
-- 2016.07 成为 [掘金翻译计划](https://github.com/xitu/gold-miner) 负责人。
+- 2016.07 成为 [掘金翻译计划](https://github.com/xitu/gold-miner) 管理员。
 
 # 技能清单
 
