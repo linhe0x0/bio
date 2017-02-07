@@ -11,7 +11,7 @@
 # 个人信息
 
  - 何林 / 根号三 / 男 / 1995 
- - 工作年限：2.x 年 (2014 年 2 月 ~ 至今)
+ - 工作年限：3.x 年 (2014 年 2 月 ~ 至今)
  - 微博：[@sqrtthree](http://weibo.com/sqrtthree)
  - Twitter：[@sqrtthree](https://twitter.com/sqrtthree)
  - 技术博客：[http://sqrthree.github.io](http://sqrthree.github.io)
@@ -48,15 +48,12 @@
 我在此项目负责了整体的功能开发。以及配合其他开发人员编写一些 `Node.js`  相关的功能。其中完成的功能主要有基于 `socket` 的实时通信，文件上传和处理，以及数据的可视化展示等。主要的技术栈有 `socket.io`、`jQuery`、`Handlebars`、`Echarts`。
 
 ### 针对台湾地区的视频网站
+
 我在此项目负责了整站的功能开发，这个项目中，最困难的问题是公共模块的组织和管理，解决方案是引进了 `sass` 工具，通过其实现了 `CSS` 的模块化管理。这个项目中，主要的技术细节有 `Sass`，`资源延迟加载`，`按需加载`，`大屏优化` 等。
 
 ### 各种业务活动专题
 
 主要是通过 `CSS3` 制作各种动画和交互效果，并针对低级浏览器使用 Flash / GIF 做优雅降级处理。
-
-### 其他项目
-
-私下爱折腾一些小游戏，做过仿微信打飞机、移动端 2048 游戏等。
 
 ---
 
@@ -64,9 +61,8 @@
 
 ## 开源项目
 
- - [placemat](https://github.com/sqrthree/placemat)：Some pretty nice placeholder nouns for your site (people, places, and things), powered by [https://placem.at/](https://placem.at/).
- - [greenhat](https://github.com/sqrthree/greenhat)：a quick hack for decorating your GitHub contribution calendar with commits for the past n days.
- - [MyStars](http://github.com/sqrthree/MyStars)：通过 `Angular + Node` 实现的一个简单的管理 github stars 项目的小工具. (第一次接触 Angular，近期计划使用 React + webpack 进行重构。)
+- [placemat](https://github.com/sqrthree/placemat)：Some pretty nice placeholder nouns for your site (people, places, and things), powered by [https://placem.at/](https://placem.at/).
+- [查看更多](https://github.com/sqrthree?tab=repositories)
 
 ## 技术文章
 
@@ -79,9 +75,9 @@
 ## 成长路线
 
 - 混迹于 [前端乱炖](http://www.html-js.com/card/799)、[segmentfault](http://segmentfault.com/u/sqrtthree)、[stackoverflow](http://stackoverflow.com/) 等各大技术社区。
-- 2015.12 参与了 [掘金翻译计划](https://github.com/xitu/gold-miner), 并加入了『掘金译者』小组。
+- 2015.12 参与了 [掘金翻译计划](https://github.com/xitu/gold-miner), 开始翻译之旅。
 - 2015.12 成为 [掘金 · 联合编辑](http://gold.xitu.io/about)。
-- 2016.07 成为 [掘金翻译计划](https://github.com/xitu/gold-miner) 负责人
+- 2016.07 成为 [掘金翻译计划](https://github.com/xitu/gold-miner) 负责人。
 
 # 技能清单
 
