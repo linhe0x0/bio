@@ -81,9 +81,20 @@
 
 # 开源项目和作品
 
+## 翻译项目
+
+- [vuejs-component-style-guide](https://github.com/sqrthree/vuejs-component-style-guide) - Vue 组件规范指导。
+- [javascript-tutorial-cn](https://github.com/iliakan/javascript-tutorial-cn) - 现代 JavaScript 教程。
+- [graphql.github.io](https://github.com/xitu/graphql.github.io) - Graphql 中文站。
+- [httpstatuses](https://github.com/sqrthree/httpstatuses) - HTTP 状态码使用指南。
+
 ## 开源项目
 
-- [placemat](https://github.com/sqrthree/placemat)：Some pretty nice placeholder nouns for your site (people, places, and things), powered by [placem.at](https://placem.at/).
+- [awesome-npm-packages](https://github.com/sqrthree/awesome-npm-packages) - a collection of awesome npm packages for Noders.
+- [codewars](https://github.com/sqrthree/codewars) - 代码战争手记。
+- [gitmit](https://github.com/sqrthree/gitmit) - Git commit 小工具。
+- [GitBook-CDN-plan](https://github.com/sqrthree/GitBook-CDN-plan) - GitBook 中国加速计划。
+- [placemat](https://github.com/sqrthree/placemat) - Some pretty nice placeholder nouns for your site (people, places, and things), powered by [placem.at](https://placem.at/).
 - [查看更多](https://github.com/sqrthree?tab=repositories)
 
 ## 技术文章
