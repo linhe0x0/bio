@@ -90,6 +90,7 @@
 
 ## 开源项目
 
+- [comeon](https://github.com/sqrthree/comeon) -  Fast, simple, flexible, usefully command line tool for developers to open documents with the fastest way.
 - [awesome-npm-packages](https://github.com/sqrthree/awesome-npm-packages) - a collection of awesome npm packages for Noders.
 - [codewars](https://github.com/sqrthree/codewars) - 代码战争手记。
 - [gitmit](https://github.com/sqrthree/gitmit) - Git commit 小工具。
