@@ -11,10 +11,9 @@
 # 个人信息
 
  - 何林 / 根号三 / 男 / 1995
- - 工作年限：3.x 年 (2014 年 2 月 ~ 至今)
- - 微博：[@sqrtthree](http://weibo.com/sqrtthree)
+ - 工作年限：4.x 年 (2014 年 2 月 ~ 至今)
  - Twitter：[@sqrtthree](https://twitter.com/sqrtthree)
- - 技术博客：[http://sqrthree.github.io](http://sqrthree.github.io)
+ - 技术博客：[https://sqrthree.github.io](https://sqrthree.github.io)
  - GitHub：[http://github.com/sqrthree](http://github.com/sqrthree)
 
 ---
@@ -92,9 +91,10 @@
 
 - [comeon](https://github.com/sqrthree/comeon) -  Fast, simple, flexible, usefully command line tool for developers to open documents with the fastest way.
 - [awesome-npm-packages](https://github.com/sqrthree/awesome-npm-packages) - a collection of awesome npm packages for Noders.
+- [lite](https://github.com/sqrthree/lite) - A clean and delicate theme for blog based on Gatsby.
+- [toFixed](https://github.com/sqrthree/toFixed) - Formats a number using fixed-point notation.
 - [codewars](https://github.com/sqrthree/codewars) - 代码战争手记。
 - [gitmit](https://github.com/sqrthree/gitmit) - Git commit 小工具。
-- [GitBook-CDN-plan](https://github.com/sqrthree/GitBook-CDN-plan) - GitBook 中国加速计划。
 - [placemat](https://github.com/sqrthree/placemat) - Some pretty nice placeholder nouns for your site (people, places, and things), powered by [placem.at](https://placem.at/).
 - [查看更多](https://github.com/sqrthree?tab=repositories)
 
@@ -105,7 +105,7 @@
 - [[译] 在 Chrome 开发者工具中调试 node.js](http://blog.sqrtthree.com/2016/02/29/debugging-nodejs-in-chrome-devtools/)
 - [聊聊 JS 中的严格模式](http://blog.sqrtthree.com/2015/10/09/strict-mode/)
 - [聊一聊 JS 中的『隐式类型转换』](https://github.com/sqrthree/sqrthree.github.io/issues/5)
-- [谈谈我理解的 API 接口设计](http://blog.sqrtthree.com/2015/09/08/api/)
+- [关于 API 接口设计](http://blog.sqrtthree.com/2015/09/08/api/)
 - [查看更多...](https://github.com/sqrthree/sqrthree.github.io/issues)
 
 ## 成长路线
@@ -119,9 +119,9 @@
 
 以下均为我熟练使用的技能:
 
-- Web开发：Node
-- Web框架：Express / Mocha / electron
-- 前端框架：Bootstrap / Semantic UI / jQuery / Lodash / React / Vue / Ionic / ES2015+
+- Web开发：Node / Go
+- Web框架：Express / Koa / Electron
+- 前端框架/库：React / Vue / Redux / Webpack / Babel / Bootstrap / Semantic UI / jQuery / Lodash
 - 前端工具：npm / Gulp / Webpack / Babel / Sass / Less
 - 数据库相关：Mongodb / Redis
 - 版本管理、文档和自动化部署工具：Svn / Git / jsdoc
@@ -131,4 +131,11 @@
 ---
 
 感谢您花时间阅读我的简历，期待能有机会和您共事。
+
+---
+
+> [sqrtthree.com](http://sqrtthree.com/) &nbsp;&middot;&nbsp;
+> GitHub [@sqrthree](https://github.com/sqrthree) &nbsp;&middot;&nbsp;
+> Twitter [@sqrtthree](https://twitter.com/sqrtthree)
+
 
