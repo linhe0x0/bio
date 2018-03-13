@@ -11,6 +11,7 @@
 # 个人信息
 
  - 何林 / 根号三 / 男 / 1995
+ - Web 前端开发工程师 / Node 后端开发者 / Go 初学者
  - 工作年限：4.x 年 (2014 年 2 月 ~ 至今)
  - Twitter：[@sqrtthree](https://twitter.com/sqrtthree)
  - 技术博客：[https://sqrthree.github.io](https://sqrthree.github.io)
