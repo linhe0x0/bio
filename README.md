@@ -15,7 +15,7 @@
  - 工作年限：4.x 年 (2014 年 2 月 ~ 至今)
  - Twitter：[@sqrtthree](https://twitter.com/sqrtthree)
  - 技术博客：[https://sqrthree.github.io](https://sqrthree.github.io)
- - GitHub：[http://github.com/sqrthree](http://github.com/sqrthree)
+ - GitHub：[github.com/sqrthree](https://github.com/sqrthree)
 
 ---
 
