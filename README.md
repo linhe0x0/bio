@@ -101,12 +101,12 @@
 
 ## 技术文章
 
+- [GoLang 中的随机数](https://github.com/sqrthree/sqrthree.github.io/issues/14)
+- [[译] 作为一个开源软件的作者是一种什么样的感受？](https://github.com/sqrthree/sqrthree.github.io/issues/13)
 - [[译] 一个关于 Styled Components 的五分钟介绍](https://github.com/sqrthree/sqrthree.github.io/issues/11)
-- [[译] jQuery 3.0 终于发布啦！](http://blog.sqrtthree.com/2016/06/13/jQuery-3-0-Final-Released/)
-- [[译] 在 Chrome 开发者工具中调试 node.js](http://blog.sqrtthree.com/2016/02/29/debugging-nodejs-in-chrome-devtools/)
-- [聊聊 JS 中的严格模式](http://blog.sqrtthree.com/2015/10/09/strict-mode/)
+- [[译] 在 Chrome 开发者工具中调试 node.js](https://github.com/sqrthree/sqrthree.github.io/issues/8)
+- [聊聊 JS 中的严格模式](https://github.com/sqrthree/sqrthree.github.io/issues/6)
 - [聊一聊 JS 中的『隐式类型转换』](https://github.com/sqrthree/sqrthree.github.io/issues/5)
-- [关于 API 接口设计](http://blog.sqrtthree.com/2015/09/08/api/)
 - [查看更多...](https://github.com/sqrthree/sqrthree.github.io/issues)
 
 ## 成长路线
