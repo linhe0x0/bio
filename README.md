@@ -101,6 +101,7 @@
 
 ## 技术文章
 
+- [[译] 不要害怕 Rebase](https://github.com/sqrthree/sqrthree.github.io/issues/15)
 - [GoLang 中的随机数](https://github.com/sqrthree/sqrthree.github.io/issues/14)
 - [[译] 作为一个开源软件的作者是一种什么样的感受？](https://github.com/sqrthree/sqrthree.github.io/issues/13)
 - [[译] 一个关于 Styled Components 的五分钟介绍](https://github.com/sqrthree/sqrthree.github.io/issues/11)
