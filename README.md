@@ -1,4 +1,4 @@
-# Web 前端开发职位 - 何林
+# Web 开发职位
 
 # 联系方式
 
@@ -10,26 +10,33 @@
 
 # 个人信息
 
- - 何林 / 根号三 / 男 / 1995
- - Web 前端开发工程师 / Node 后端开发者 / Go 初学者
- - 工作年限：4.x 年 (2014 年 2 月 ~ 至今)
- - Twitter：[@sqrtthree](https://twitter.com/sqrtthree)
- - 技术博客：[https://sqrthree.github.io](https://sqrthree.github.io)
- - GitHub：[github.com/sqrthree](https://github.com/sqrthree)
+- 根号三 / 男 / 1995
+- Web 前端开发工程师 / Node 后端开发者 / Go 开发者
+- 工作年限：6.x 年 (2014 年 2 月 ~ 至今)
+- Twitter：[@sqrtthree](https://twitter.com/sqrtthree)
+- 技术博客：[https://sqrthree.github.io](https://sqrthree.github.io)
+- GitHub：[github.com/sqrthree](https://github.com/sqrthree)
 
 ---
 
- - 期望职位：Web 前端开发工程师
- - 期望薪资：税前月薪 `**`
- - 期望城市：郑州
+- 期望职位：Web 端开发工程师
+- 期望城市：远程
 
 ---
 
- - 已离职。
+- 独立开发者
 
 ---
 
 # 工作经历
+
+## 郑州某科技（2017 年 12 月 ~ 2019 年 3 月）
+
+### 前端开发工程师
+
+#### 广告编辑器平台
+
+参与公司产品的核心功能开发以及功能架构设计。主要基于 Vue 技术栈处理应用在复杂数据流状态下的数据管理和优化。
 
 ## 郑州某科技（2016 年 12 月 ~ 2017 年 8 月）
 
@@ -67,7 +74,7 @@
 
 #### 在线客服系统
 
-我在此项目负责了整体的功能开发。以及配合其他开发人员编写一些 `Node.js`  相关的功能。其中完成的功能主要有基于 `socket` 的实时通信，文件上传和处理，以及数据的可视化展示等。主要的技术栈有 `socket.io`、`jQuery`、`Handlebars`、`Echarts`。
+我在此项目负责了整体的功能开发。以及配合其他开发人员编写一些 `Node.js` 相关的功能。其中完成的功能主要有基于 `socket` 的实时通信，文件上传和处理，以及数据的可视化展示等。主要的技术栈有 `socket.io`、`jQuery`、`Handlebars`、`Echarts`。
 
 #### 针对台湾地区的视频网站
 
@@ -90,13 +97,12 @@
 
 ## 开源项目
 
-- [comeon](https://github.com/sqrthree/comeon) -  Fast, simple, flexible, usefully command line tool for developers to open documents with the fastest way.
-- [awesome-npm-packages](https://github.com/sqrthree/awesome-npm-packages) - a collection of awesome npm packages for Noders.
+- [vuepress-theme-api](https://github.com/sqrthree/vuepress-theme-api) - A theme for vuepress.
+- [comeon](https://github.com/sqrthree/comeon) - Fast, simple, flexible, usefully command line tool for developers to open documents with the fastest way.
+- [env-info-webpack-plugin](https://github.com/sqrthree/env-info-webpack-plugin) - Webpack plugin for generates build and env information.
 - [lite](https://github.com/sqrthree/lite) - A clean and delicate theme for blog based on Gatsby.
 - [toFixed](https://github.com/sqrthree/toFixed) - Formats a number using fixed-point notation.
-- [codewars](https://github.com/sqrthree/codewars) - 代码战争手记。
 - [gitmit](https://github.com/sqrthree/gitmit) - Git commit 小工具。
-- [placemat](https://github.com/sqrthree/placemat) - Some pretty nice placeholder nouns for your site (people, places, and things), powered by [placem.at](https://placem.at/).
 - [查看更多](https://github.com/sqrthree?tab=repositories)
 
 ## 技术文章
@@ -121,13 +127,13 @@
 
 以下均为我熟练使用的技能:
 
-- Web开发：Node / Go
-- Web框架：Express / Koa / Electron
+- Web 开发：Node / Go
+- Web 框架：Express / Koa / Electron
 - 前端框架/库：React / Vue / Redux / Webpack / Babel / Bootstrap / Semantic UI / jQuery / Lodash
-- 前端工具：npm / Gulp / Webpack / Babel / Sass / Less
-- 数据库相关：Mongodb / Redis
+- 前端工具：Npm / Gulp / Webpack / Babel / Sass / Less
+- 数据库相关：Mysql / Mongodb / Redis
 - 版本管理、文档和自动化部署工具：Svn / Git / jsdoc
-- 单元测试：Mocha / AVA / chai...
+- 单元测试：Jest / Mocha / AVA / chai...
 - 平台：Mac / Linux
 
 ---
@@ -139,5 +145,3 @@
 > [sqrtthree.com](http://sqrtthree.com/) &nbsp;&middot;&nbsp;
 > GitHub [@sqrthree](https://github.com/sqrthree) &nbsp;&middot;&nbsp;
 > Twitter [@sqrtthree](https://twitter.com/sqrtthree)
-
-
