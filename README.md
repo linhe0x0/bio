@@ -2,7 +2,6 @@
 
 # 联系方式
 
-- 手机：`159 8196 3283`
 - Email：`imsqrtthree@gmail.com`
 - Wechat：`511249910`
 
@@ -11,8 +10,8 @@
 # 个人信息
 
 - 根号三 / 男 / 1995
-- Web 前端开发工程师 / Node 后端开发者 / Go 开发者
-- 工作年限：6.x 年 (2014 年 2 月 ~ 至今)
+- Web 前端开发工程师 / Node.js 后端开发者 / Go 开发者
+- 工作年限：7.x 年 (2014 年 2 月 ~ 至今)
 - Twitter：[@sqrtthree](https://twitter.com/sqrtthree)
 - 技术博客：[https://sqrthree.github.io](https://sqrthree.github.io)
 - GitHub：[github.com/sqrthree](https://github.com/sqrthree)
