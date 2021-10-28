@@ -13,7 +13,7 @@
 - Web 前端开发工程师 / Node.js 后端开发者 / Go 开发者
 - 工作年限：7.x 年 (2014 年 2 月 ~ 至今)
 - Twitter：[@sqrtthree](https://twitter.com/sqrtthree)
-- 技术博客：[https://sqrthree.github.io](https://sqrthree.github.io)
+- 技术博客：[blog.sqrtthree.com](https://blog.sqrtthree.com)
 - GitHub：[github.com/sqrthree](https://github.com/sqrthree)
 
 ---
@@ -113,7 +113,7 @@
 - [[译] 在 Chrome 开发者工具中调试 node.js](https://github.com/sqrthree/sqrthree.github.io/issues/8)
 - [聊聊 JS 中的严格模式](https://github.com/sqrthree/sqrthree.github.io/issues/6)
 - [聊一聊 JS 中的『隐式类型转换』](https://github.com/sqrthree/sqrthree.github.io/issues/5)
-- [查看更多...](https://github.com/sqrthree/sqrthree.github.io/issues)
+- [查看更多...](https://blog.sqrtthree.com)
 
 ## 成长路线
 
@@ -126,12 +126,12 @@
 
 以下均为我熟练使用的技能:
 
-- Web 开发：Node / Go
+- Web 开发：Node.js / Go
 - Web 框架：Express / Koa / Electron
-- 前端框架/库：React / Vue / Redux / Webpack / Babel / Bootstrap / Semantic UI / jQuery / Lodash
-- 前端工具：Npm / Gulp / Webpack / Babel / Sass / Less
+- 前端框架/库：React / Vue / Next.js / Bootstrap / Lodash
+- 前端工具：Npm / Yarn / Vite / Webpack / Babel / Sass / Less / PostCSS
 - 数据库相关：Mysql / Mongodb / Redis
-- 版本管理、文档和自动化部署工具：Svn / Git / jsdoc
+- 版本管理、文档和自动化部署工具：Svn / Git / CI / CD
 - 单元测试：Jest / Mocha / AVA / chai...
 - 平台：Mac / Linux
 
