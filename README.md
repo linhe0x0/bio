@@ -138,7 +138,7 @@
 
 ## 成长路线
 
-- 混迹于 [前端乱炖](http://www.html-js.com/card/799)、[segmentfault](http://segmentfault.com/u/sqrtthree)、[stackoverflow](http://stackoverflow.com/) 等各大技术社区。
+- 混迹于 [前端乱炖](http://www.html-js.com/card/799)、[SegmentFault](http://segmentfault.com/u/sqrtthree)、[StackOverflow](http://stackoverflow.com/) 等各大技术社区。
 - 2015.12 参与了 [掘金翻译计划](https://github.com/xitu/gold-miner)，开始翻译之旅。
 - 2015.12 成为 [掘金 · 联合编辑](http://gold.xitu.io/about)。
 - 2016.07 成为 [掘金翻译计划](https://github.com/xitu/gold-miner) 管理员，组织和维护社区成员的翻译工作。
