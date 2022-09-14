@@ -151,7 +151,7 @@
 - Web 框架：Express / Koa / Electron
 - 前端框架/库：React / Vue / Next.js / Bootstrap / Lodash
 - 前端工具：Npm / Yarn / pnpm / Vite / Webpack / Babel / Sass / PostCSS
-- 数据库相关：Mysql / Mongodb / Redis
+- 数据库相关：Mysql / MongoDB / Redis
 - 版本管理、文档和自动化部署工具：Svn / Git / CI / CD
 - 单元测试：Jest / Mocha / AVA / chai...
 - 平台：Mac / Linux
